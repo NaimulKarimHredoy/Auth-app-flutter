@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_project/screen/fogot_pass.dart';
-import 'package:flutter_project/screen/login_succesfully.dart';
+import 'package:flutter_project/screen/home.dart';
 
 
 
